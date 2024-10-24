@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\HW1_solae4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA9743A-551B-4980-AFB3-C9E2A875B6C7}|HW1_solae4\\HW1_solae4.csproj|d:\\c#\\hw1_solae4\\hw1_solae4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA9743A-551B-4980-AFB3-C9E2A875B6C7}|HW1_solae4\\HW1_solae4.csproj|solutionrelative:hw1_solae4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\HW1_solae4\\HW1_solae4\\Program.cs",
+              "RelativeDocumentMoniker": "HW1_solae4\\Program.cs",
+              "ToolTip": "D:\\c#\\HW1_solae4\\HW1_solae4\\Program.cs",
+              "RelativeToolTip": "HW1_solae4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:45:33.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\c#\HW1_max_number\HW1_max_number\bin\Debug\net8.0\HW1_max_number.exe
+D:\c#\HW1_max_number\HW1_max_number\bin\Debug\net8.0\HW1_max_number.deps.json
+D:\c#\HW1_max_number\HW1_max_number\bin\Debug\net8.0\HW1_max_number.runtimeconfig.json
+D:\c#\HW1_max_number\HW1_max_number\bin\Debug\net8.0\HW1_max_number.dll
+D:\c#\HW1_max_number\HW1_max_number\bin\Debug\net8.0\HW1_max_number.pdb
+D:\c#\HW1_max_number\HW1_max_number\obj\Debug\net8.0\HW1_max_number.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\HW1_max_number\HW1_max_number\obj\Debug\net8.0\HW1_max_number.AssemblyInfoInputs.cache
+D:\c#\HW1_max_number\HW1_max_number\obj\Debug\net8.0\HW1_max_number.AssemblyInfo.cs
+D:\c#\HW1_max_number\HW1_max_number\obj\Debug\net8.0\HW1_max_number.csproj.CoreCompileInputs.cache
+D:\c#\HW1_max_number\HW1_max_number\obj\Debug\net8.0\HW1_max_number.dll
+D:\c#\HW1_max_number\HW1_max_number\obj\Debug\net8.0\refint\HW1_max_number.dll
+D:\c#\HW1_max_number\HW1_max_number\obj\Debug\net8.0\HW1_max_number.pdb
+D:\c#\HW1_max_number\HW1_max_number\obj\Debug\net8.0\HW1_max_number.genruntimeconfig.cache
+D:\c#\HW1_max_number\HW1_max_number\obj\Debug\net8.0\ref\HW1_max_number.dll

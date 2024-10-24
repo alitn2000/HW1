@@ -1,0 +1,14 @@
+D:\c#\HW1_soale3\HW1_soale3\bin\Debug\net8.0\HW1_soale3.exe
+D:\c#\HW1_soale3\HW1_soale3\bin\Debug\net8.0\HW1_soale3.deps.json
+D:\c#\HW1_soale3\HW1_soale3\bin\Debug\net8.0\HW1_soale3.runtimeconfig.json
+D:\c#\HW1_soale3\HW1_soale3\bin\Debug\net8.0\HW1_soale3.dll
+D:\c#\HW1_soale3\HW1_soale3\bin\Debug\net8.0\HW1_soale3.pdb
+D:\c#\HW1_soale3\HW1_soale3\obj\Debug\net8.0\HW1_soale3.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\HW1_soale3\HW1_soale3\obj\Debug\net8.0\HW1_soale3.AssemblyInfoInputs.cache
+D:\c#\HW1_soale3\HW1_soale3\obj\Debug\net8.0\HW1_soale3.AssemblyInfo.cs
+D:\c#\HW1_soale3\HW1_soale3\obj\Debug\net8.0\HW1_soale3.csproj.CoreCompileInputs.cache
+D:\c#\HW1_soale3\HW1_soale3\obj\Debug\net8.0\HW1_soale3.dll
+D:\c#\HW1_soale3\HW1_soale3\obj\Debug\net8.0\refint\HW1_soale3.dll
+D:\c#\HW1_soale3\HW1_soale3\obj\Debug\net8.0\HW1_soale3.pdb
+D:\c#\HW1_soale3\HW1_soale3\obj\Debug\net8.0\HW1_soale3.genruntimeconfig.cache
+D:\c#\HW1_soale3\HW1_soale3\obj\Debug\net8.0\ref\HW1_soale3.dll
